@@ -19,8 +19,7 @@ function App() {
       <Router>
         <div style={{background:"black",
           padding:"10px",
-          color:"white",
-          boxShadow:"0px 5px 10px 2px rgba(0,0,0,0.25)"}}>
+          color:"white"}}>
           
           <Link style={{margin:"10px", color:"white"}} to="/">Home</Link>
           <Link style={{margin:"10px", color:"white"}} to="/about">About</Link>
