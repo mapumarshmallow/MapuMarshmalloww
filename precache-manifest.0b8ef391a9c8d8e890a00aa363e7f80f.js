@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "132ed30553048cfcb407a42811242728",
+    "revision": "60b2d76dc2bf72ed60d6e8b13a7728d0",
     "url": "/MapuMarshmalloww/index.html"
   },
   {
-    "revision": "05de21b30dc5f52e9a22",
-    "url": "/MapuMarshmalloww/static/css/main.5f361e03.chunk.css"
+    "revision": "bb1f900643457cafb1bf",
+    "url": "/MapuMarshmalloww/static/css/main.b5696f6a.chunk.css"
   },
   {
-    "revision": "3f7bfa8e749fc3ede0e4",
-    "url": "/MapuMarshmalloww/static/js/2.4b57626c.chunk.js"
+    "revision": "2f8cf8eb0be3627b6ca3",
+    "url": "/MapuMarshmalloww/static/js/2.030faea8.chunk.js"
   },
   {
     "revision": "c64c486544348f10a6d6c716950bc223",
-    "url": "/MapuMarshmalloww/static/js/2.4b57626c.chunk.js.LICENSE.txt"
+    "url": "/MapuMarshmalloww/static/js/2.030faea8.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "05de21b30dc5f52e9a22",
-    "url": "/MapuMarshmalloww/static/js/main.b37bf545.chunk.js"
+    "revision": "bb1f900643457cafb1bf",
+    "url": "/MapuMarshmalloww/static/js/main.7dcf67dd.chunk.js"
   },
   {
     "revision": "15b61f57118361fe061c",
