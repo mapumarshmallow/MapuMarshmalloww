@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/MapuMarshmalloww/static/css/main.5f361e03.chunk.css",
-    "main.js": "/MapuMarshmalloww/static/js/main.911d7a41.chunk.js",
-    "main.js.map": "/MapuMarshmalloww/static/js/main.911d7a41.chunk.js.map",
+    "main.js": "/MapuMarshmalloww/static/js/main.122c7065.chunk.js",
+    "main.js.map": "/MapuMarshmalloww/static/js/main.122c7065.chunk.js.map",
     "runtime-main.js": "/MapuMarshmalloww/static/js/runtime-main.042d9919.js",
     "runtime-main.js.map": "/MapuMarshmalloww/static/js/runtime-main.042d9919.js.map",
     "static/js/2.3f121c82.chunk.js": "/MapuMarshmalloww/static/js/2.3f121c82.chunk.js",
     "static/js/2.3f121c82.chunk.js.map": "/MapuMarshmalloww/static/js/2.3f121c82.chunk.js.map",
     "index.html": "/MapuMarshmalloww/index.html",
-    "precache-manifest.4fce2225bfac62552d51376a3164a592.js": "/MapuMarshmalloww/precache-manifest.4fce2225bfac62552d51376a3164a592.js",
+    "precache-manifest.fc776364f73fb2260010fd8e16b1a58c.js": "/MapuMarshmalloww/precache-manifest.fc776364f73fb2260010fd8e16b1a58c.js",
     "service-worker.js": "/MapuMarshmalloww/service-worker.js",
     "static/css/main.5f361e03.chunk.css.map": "/MapuMarshmalloww/static/css/main.5f361e03.chunk.css.map",
     "static/js/2.3f121c82.chunk.js.LICENSE.txt": "/MapuMarshmalloww/static/js/2.3f121c82.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.042d9919.js",
     "static/js/2.3f121c82.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.911d7a41.chunk.js"
+    "static/js/main.122c7065.chunk.js"
   ]
 }
