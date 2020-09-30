@@ -8,16 +8,42 @@ const Home = () =>{
         <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Welcome to <code>Mapu Marshmalloww</code> website!!
+          <b>
+            Welcome to <code>Mapu Marshmalloww</code> website!!
+          </b>
         </p>
-        <a
-          className="App-link"
-          href="https://www.instagram.com/mapu.marshmalloww/"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Visit my Instagram
-        </a>
+        <div>
+          <a
+            className="App-link" style={{color:"purple"}}
+            href="https://www.instagram.com/mapu.marshmalloww/"
+            target="_blank"
+            rel="noopener noreferrer">
+            Instagram
+          </a> <a
+            className="App-link" style={{color:"blue"}}
+            href="https://www.facebook.com/"
+            target="_blank"
+            rel="noopener noreferrer">
+            FaceBook
+          </a> <a
+            className="App-link" style={{color:"red"}}
+            href="https://www.youtube.com/watch?v=tad5W3Sm670&list=PLGaFouLvwkgDxFgBtTrohIEprCaDBmgi-"
+            target="_blank"
+            rel="noopener noreferrer">
+            YouTube
+          </a>
+        </div>
+
+        
+        <div>
+          <button
+            type="button" onClick={(e) => { 
+              e.preventDefault();
+              window.location.href='http://google.com';
+              }
+              }>Test Button go to Google</button>
+        </div>
+        
       </header>
     )    
 }

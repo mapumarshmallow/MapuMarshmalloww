@@ -1,13 +1,11 @@
 import React from 'react';
 
-const About = () => {
-
+const NotFound = () => {
     return(
         <div>
-            About Mapu Page
+            Page Not Found
         </div>
     )
-
 }
 
-export default About;
+export default NotFound;
